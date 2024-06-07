@@ -1,1 +1,7 @@
 # edwin-illegal
+
+İllegal meslekler
+
+* SATIŞ SİSTEMİ NASIL?
+* 1 SATIŞ SİSTEMİ DAİRE İÇİNE GİRİNCE OTOMATİK SATMA SİSTEMİ
+* 2 SATIŞ SİSTEMİ NPC ALT TARGET İLE AÇIP SATIŞ YAPABİLİRSİNİZ
